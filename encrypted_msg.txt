@@ -1,0 +1,4 @@
+sepd klaj("dahhk.ptp", "s") wo b:
+    b.snepa("Dahhk Gwbehwp, pdeo eo iu oaynap iaoowca")
+
+lnejp("dahhk.ptp ynawpaz")

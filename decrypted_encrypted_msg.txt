@@ -1,0 +1,4 @@
+with open("hello.txt", "w") as f:
+    f.write("Hello Kafilat, this is my secret message")
+
+print("hello.txt created")
